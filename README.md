@@ -1,8 +1,14 @@
 # Top2Vec-Demo
 
 ## To view the video
-* [Click here](https://youtu.be/ne73A-GDqe4)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=ne73A-GDqe4" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/ne73A-GDqe4?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Top2Vec-Demo](http://img.youtube.com/vi/ne73A-GDqe4/0.jpg)](http://www.youtube.com/watch?v=ne73A-GDqe4)
 
